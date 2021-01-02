@@ -3,10 +3,10 @@
 
 # AutoHub核心API分类
 
-![API图片](.\images\AutoHub核心API分类.png)
+![API图片](./images/AutoHub核心API分类.png)
 
 
 
 # 联系作者
 
-<img src=".\images\开源优测.jpg" alt="苦叶子" style="zoom:50%;" />
+<img src="./images/开源优测.jpg" alt="苦叶子" style="zoom:50%;" />
